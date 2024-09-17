@@ -55,3 +55,7 @@ User-Centric Design: An intuitive interface designed for ease of use and efficie
 Contributions are welcome! If you have suggestions for new features, improvements, or bug fixes, please submit a pull request or create an issue. Your input helps enhance the functionality and user experience of the Notes Taking App.
 
 ![image](https://github.com/user-attachments/assets/681ab538-4fef-4e24-914a-5145941ecff7)
+
+
+![image](https://github.com/user-attachments/assets/107f915b-c5f0-4b49-ac49-c0d44bdda517)
+
