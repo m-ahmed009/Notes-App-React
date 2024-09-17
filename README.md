@@ -25,6 +25,8 @@ Clone the Repository:
 
 git clone https://github.com/your-username/notes-taking-app.git
 
+check live in Netlify: https://syeda-notes.netlify.app/
+
 # Install Dependencies:
 
 🔰 cd notes-taking-app
